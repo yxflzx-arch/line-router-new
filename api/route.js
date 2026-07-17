@@ -1,8 +1,8 @@
 export default async function handler(req, res) {
 
   const lines = [
-    "https://lin.ee/NYfUBs0",
-    "https://lin.ee/qYecW9U"
+    "https://lin.ee/5UsEvYN",
+    "https://lin.ee/pbznYGz"
   ];
 
   try {
