@@ -8,7 +8,7 @@ export default async function handler(req, res) {
   try {
 
     const response = await fetch(
-      `${process.env.KV_REST_API_URL}/incr/line_count`,
+      `${process.env.KV_REST_API_URL}/incr/line_count_new`,
       {
         headers: {
           Authorization:
